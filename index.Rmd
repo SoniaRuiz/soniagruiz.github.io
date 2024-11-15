@@ -1,6 +1,6 @@
 ---
 title: "Sonia Garcia-Ruiz"
-image: "sonia.jpg"
+image: "images/sonia.jpg"
 links:
   - label: LinkedIn
     url: "linkedin.com/in/sonia-garcía-ruiz-7a142829a"
