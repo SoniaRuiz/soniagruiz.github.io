@@ -1,0 +1,49 @@
+---
+title: "Sonia Garcia-Ruiz"
+image: "sonia.jpg"
+links:
+  - label: LinkedIn
+    url: "linkedin.com/in/sonia-garcía-ruiz-7a142829a"
+  - label: Bluesky
+    url: "https://bsky.app/profile/soniagr.bsky.social"
+  - label: GitHub
+    url: "https://github.com/SoniaRuiz"
+  - label: Email
+    url: "mailto:sg2173@cam.ac.uk"
+output:
+  postcards::trestles
+---
+ 
+ 
+## Bio
+
+I am a Computer Scientist living in Cambridge (UK). 
+My research currently focuses on using short-read transcriptomic data to understand RNA splicing changes in human disease, with a special focus in neurodegeneration. But, of course, I also love talking about cats, music and philosophy.
+
+
+## Education
+
+**University College London** | London, UK
+
+Ph.D. in Human Transcriptomics | August 2019 - Oct 2023
+
+**University of Murcia** | Murcia, Spain
+
+MS.c. in Artificial Intelligence | September 2017 - May 2018
+
+**University Miguel Hernandez, Elche** | Alicante, Spain
+
+B.S. in Computer Science | September 2010 - May 2014
+
+
+## Experience
+
+**UK Dementia Research Institute (UK DRI), Department of Clinical Neurosciences, University of Cambridge (UK)** | Postdoctoral Researcher | Sept 2024 - Present
+
+**GOS Institute of Child Health, Department of Genetics and Genomic Medicine, University College London (UK)** | Postdoctoral Researcher | Oct 2023 - Sept 2024
+
+**GOS Institute of Child Health, Department of Genetics and Genomic Medicine, University College London (UK)** | Research Assistant | Oct 2020 - Oct 2023
+
+**Institute of Neurology, Department of Neurodegenerative Disease, University College London (UK)** | Research Assistant | Jul 2018 - Oct 2020
+
+**Oesía Networks SL, Murcia (Spain)** | Software Developer | May 2015 - Dec 2017
